@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B2E63803-B912-2B08-8453-51E2F76E61ED}") = "holographicProjection", "Assembly-CSharp-firstpass.csproj", "{2D73D65A-17DF-C69A-33FC-B95B1837CA29}"
+EndProject
+Project("{B2E63803-B912-2B08-8453-51E2F76E61ED}") = "holographicProjection", "Assembly-CSharp.csproj", "{62FF4352-E343-72C6-9207-ECAEC1F1F083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D73D65A-17DF-C69A-33FC-B95B1837CA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D73D65A-17DF-C69A-33FC-B95B1837CA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D73D65A-17DF-C69A-33FC-B95B1837CA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D73D65A-17DF-C69A-33FC-B95B1837CA29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FF4352-E343-72C6-9207-ECAEC1F1F083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FF4352-E343-72C6-9207-ECAEC1F1F083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FF4352-E343-72C6-9207-ECAEC1F1F083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FF4352-E343-72C6-9207-ECAEC1F1F083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

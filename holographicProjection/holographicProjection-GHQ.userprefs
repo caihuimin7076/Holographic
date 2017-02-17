@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RotateScene.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CreateObject.cs" Line="145" Column="14" />
+      <File FileName="Assets\Scripts\RotateScene.cs" Line="9" Column="2" />
+      <File FileName="Assets\Scripts\detailView.cs" Line="18" Column="38" />
+      <File FileName="Assets\Scripts\RotationClick.cs" Line="26" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
